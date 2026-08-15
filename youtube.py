@@ -22,7 +22,7 @@ def index():
 <html>
 <head>
 <meta charset="UTF-8">
-<title>YouTube URL 変換ツール</title>
+<title>のすけ ツール</title>
 <style>
     body {
         font-family: sans-serif;
