@@ -504,7 +504,7 @@ fetch("/get_coins").then(r => r.json()).then(d => {
 
 </body>
 </html>
-"""
+""")
 def generate_card():
     value = random.randint(1, 13)
     suit = random.choice(["♠️", "♥️", "♦️", "♣️"])
